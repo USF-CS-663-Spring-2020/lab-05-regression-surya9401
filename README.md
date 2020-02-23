@@ -1,4 +1,4 @@
 # readme.md
 
-**Name**:  
-**USF email address**:  
+Name: Suryadeep Guha  
+USF email address: sguha2@dons.usfca.edu  
